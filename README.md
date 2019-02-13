@@ -13,7 +13,7 @@
 ## Convolutional Neural Networks
 ### Convolutional Networks that have a name
 转自[这里](http://cs231n.github.io/convolutional-networks/)
-item     | year|   author|rem|
+item     | year|   author|remark|
 -------- | -----|---|--
 LeNet  | 1990|Yann LeCun|第一个卷积网络的应用，其中最有名的是[LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)识别数字和邮政编码的结构|
 [AlexNet](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)  | 2012|Alex Krizhevsky, Ilya Sutskever 和 Geoff Hinton|第一个使卷积神经网络在计算机视觉界流行的架构，AlexNet在2012年的[ImageNet ILSVRC challenge](http://www.image-net.org/challenges/LSVRC/2014/)中性能远超第二名（16%的top5错误率，第二名是26%的top5错误率）。这个网络架构与LeNet很相似，但更深更大，多个卷积层叠在一起（之前通常是卷积层之后立即跟上一个池化层）
