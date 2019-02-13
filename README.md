@@ -1,8 +1,12 @@
 # Computer Vision cheatsheet
 ## resources
-* [cs229](https://www.coursera.org/learn/machine-learning)
-* [cs231n](http://cs231n.github.io)
-
+* course
+  * [cs229](https://www.coursera.org/learn/machine-learning)
+  * [cs231n](http://cs231n.github.io)
+  * [台大李宏毅系列课程](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
+* pytorch
+  * [pytorch examples](https://github.com/pytorch/examples/)
+  * [pytorch tutorial](https://pytorch.org/tutorials/)
 ## views
 * [Convolutional Neural Networks](https://www.zhihu.com/question/39022858/answer/194996805)
 
